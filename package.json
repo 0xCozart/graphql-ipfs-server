@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "graphql": "^16.6.0",
+    "typecript": "^0.0.1-security"
+  },
+  "name": "serversan",
+  "version": "0.0.1",
+  "description": "graphql server utilizing ipfs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
